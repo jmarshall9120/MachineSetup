@@ -1,0 +1,22 @@
+Git:
+	https://git-scm.com/downloads
+AutoHotkey:
+	https://autohotkey.com/download/
+Visual Studion 17:
+	https://visualstudio.microsoft.com/
+Net Extender:
+	https://www.mysonicwall.com/muir/freedownloads
+SSMS:
+	https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-changelog-ssms?view=sql-server-2017#ssms-179-latest-ga-release
+Chrome:
+	https://www.google.com/chrome/?brand=CHBF&ds_kid=43700010220923513&gclid=CNn6-ZPf4N0CFdEAXAodaNINqg&gclsrc=ds&dclid=CPS-hZTf4N0CFWcCrQYdLJkD9w
+Spotify:
+	https://www.spotify.com/us/download/other/
+Sublime Text 2:
+	https://www.sublimetext.com/3
+Python 3.7 64bit:
+	https://www.python.org/downloads/
+OLD Driver for SQL Server:
+	https://www.microsoft.com/en-us/download/details.aspx?id=56567
+Fiddler:
+	https://www.telerik.com/download/fiddler
